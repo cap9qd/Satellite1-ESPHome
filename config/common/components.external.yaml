@@ -1,5 +1,5 @@
 substitutions:
-  ext_comp_repo_url: https://github.com/FutureProofHomes/Satellite1-ESPHome
+  ext_comp_repo_url: https://github.com/cap9qd/Satellite1-ESPHome
   ext_comp_repo_ref: staging
 
 external_components:
