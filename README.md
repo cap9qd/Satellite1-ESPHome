@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/FutureProofHomes/Satellite1-ESPHome">
+  <a href="https://github.com/cap9qd/Satellite1-ESPHome">
     <img src="assets/images/logo.png" alt="Logo" width="80" height="80" style="border-radius:10%">
   </a>
 
@@ -36,9 +36,9 @@
     <br />
     <a href="https://www.youtube.com/@futureproofhomes">View Demos</a>
     ·
-    <a href="https://github.com/FutureProofHomes/Satellite1-ESPHome/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/cap9qd/Satellite1-ESPHome/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/FutureProofHomes/Satellite1-ESPHome/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/cap9qd/Satellite1-ESPHome/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -135,7 +135,7 @@ _For more examples, please refer to the [Documentation](https://docs.futureproof
 <!-- ROADMAP -->
 ## Core Board Roadmap
 
-See the [open issues](https://github.com/FutureProofHomes/Satellite1-ESPHome/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/cap9qd/Satellite1-ESPHome/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,15 +240,15 @@ Checkout out our growing YouTube Channel  - [YouTube.com/@FutureProofHomes](http
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/FutureProofHomes/Satellite1-ESPHome.svg?style=for-the-badge
-[contributors-url]: https://github.com/FutureProofHomes/Satellite1-ESPHome/graphs/contributors
+[contributors-url]: https://github.com/cap9qd/Satellite1-ESPHome/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/FutureProofHomes/Satellite1-ESPHome.svg?style=for-the-badge
-[forks-url]: https://github.com/FutureProofHomes/Satellite1-ESPHome/network/members
+[forks-url]: https://github.com/cap9qd/Satellite1-ESPHome/network/members
 [stars-shield]: https://img.shields.io/github/stars/FutureProofHomes/Satellite1-ESPHome.svg?style=for-the-badge
-[stars-url]: https://github.com/FutureProofHomes/Satellite1-ESPHome/stargazers
+[stars-url]: https://github.com/cap9qd/Satellite1-ESPHome/stargazers
 [issues-shield]: https://img.shields.io/github/issues/FutureProofHomes/Satellite1-ESPHome.svg?style=for-the-badge
-[issues-url]: https://github.com/FutureProofHomes/Satellite1-ESPHome/issues
+[issues-url]: https://github.com/cap9qd/Satellite1-ESPHome/issues
 [license-shield]: https://img.shields.io/github/license/FutureProofHomes/Satellite1-ESPHome.svg?style=for-the-badge
-[license-url]: https://github.com/FutureProofHomes/Satellite1-ESPHome/blob/master/LICENSE
+[license-url]: https://github.com/cap9qd/Satellite1-ESPHome/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [genaimockup]: assets/images/mockup.png
