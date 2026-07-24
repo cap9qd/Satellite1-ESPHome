@@ -2,10 +2,6 @@ sendspin:
   id: sendspin_hub
   task_stack_in_psram: true
 
-media_source:
-  - platform: sendspin
-    id: sendspin_media_source
-
 media_player:
   - platform: sendspin
     id: sendspin_group_media_player
